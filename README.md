@@ -6,6 +6,9 @@ Villermaux-Dushman reaction:
 (3) Iodine + Iodide <--> Triiodide
 This code contains the reaction constants for Perchloric acid (full dissociation), TRIS buffer, and Potassium Iodide/Iodate
 
+## Cite this material
+Use DOI:10.5281/zenodo.10103788
+
 ## incorporation_model_main.m
 Available models: exponential or linear incorporation function (Fournier 1996 or Arian 2021)
 Required inputs: Volume flow rates, initial concentrations, experimental measurements of Triiodide concentration & Segregation Index
